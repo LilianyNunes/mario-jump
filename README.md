@@ -34,6 +34,7 @@ Aqui estão algumas imagens do jogo:
 
 A estrutura do projeto é a seguinte:
 
+```
 /Mario-Jump 🌟
 ├── /assets 🖼️
 │   ├── /images 🌅
@@ -50,6 +51,7 @@ A estrutura do projeto é a seguinte:
 │   └── script.js ⌨️
 ├── index.html 📄
 └── README.md 📖
+```
 
 - **/assets**: Contém todas as imagens usadas no jogo. 🌄
 - **/images**: Onde estão armazenadas as imagens e GIFs.
