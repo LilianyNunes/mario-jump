@@ -2,6 +2,16 @@
 
 Este é um jogo simples baseado no famoso **Mario Jump**, onde o jogador deve fazer Mario pular para evitar obstáculos (canos). O objetivo é evitar a colisão entre Mario e os canos que se movem na tela. 🚀
 
+## Imagens do Jogo 📸
+
+Aqui estão algumas imagens do jogo:
+
+### Tela de Jogo 🎮
+![Tela de Jogo](./assets/images/screenshots/game-play-screen.png)
+
+### Tela de Game Over 💀
+![Tela de Game Over](./assets/images/screenshots/game-over-screen.png)
+
 ## Tecnologias Utilizadas 🛠️
 
 - **HTML**: Estruturação da página e do layout do jogo.
