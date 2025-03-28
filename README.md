@@ -47,3 +47,7 @@ Aqui estão algumas imagens do jogo:
     - ⌨️ [script.js](js/script.js) ⌨️
 - 📄 [index.html](index.html) 📄
 - 📖 [README.md](README.md) 📖
+
+## 📜 Avisos Legais
+
+Este projeto é de natureza educacional e serve como demonstração de como desenvolver jogos simples utilizando tecnologias web. **Não é permitido o uso comercial sem a devida autorização.** Todos os direitos relacionados aos ícones, imagens e outros recursos gráficos usados pertencem aos seus respectivos autores.
