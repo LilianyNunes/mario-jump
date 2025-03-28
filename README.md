@@ -30,34 +30,29 @@ Aqui estão algumas imagens do jogo:
 - **Canos em Movimento**: Os canos se movem de direita para esquerda constantemente. 🌪️
 - **Detecção de Colisão**: O jogo verifica se Mario colidiu com os canos. Quando isso acontece, o jogo termina e uma tela de "Game Over" é exibida. ☠️
 
-## Estrutura do Projeto 📂
+## 📂 Estrutura de Pastas e Arquivos
 
-A estrutura do projeto é a seguinte:
+- 📁 [*assets*](assets) 🖼️
+    - 📁 [*images*](assets/images) 🌅
+        - 🖼️ [clouds.png](assets/images/clouds.png) ☁️
+        - 🖼️ [mario.gif](assets/images/mario.gif) 🎮
+        - 🖼️ [pipe.png](assets/images/pipe.png) 🚧
+        - 🖼️ [game-over.png](assets/images/game-over.png) 💀
+    - 📁 [*screenshots*](assets/screenshots) 📸
+        - 🖼️ [game-over-screen.png](assets/screenshots/game-over-screen.png) 🖼️
+        - 🖼️ [game-play.png](assets/screenshots/game-play.png) 🖼️
+- 📁 [*css*](css) 🎨
+    - 🖌️ [style.css](css/style.css) 🖌️
+- 📁 [*js*](js) 💻
+    - ⌨️ [script.js](js/script.js) ⌨️
+- 📄 [index.html](index.html) 📄
+- 📖 [README.md](README.md) 📖
 
-```
-/Mario-Jump 🌟
-├── /assets 🖼️
-│   ├── /images 🌅
-│   │   ├── clouds.png ☁️
-│   │   ├── mario.gif 🎮
-│   │   ├── pipe.png 🚧
-│   │   ├── game-over.png 💀
-│   └── /screenshots 📸
-│       ├── game-over-screen.png 🖼️
-│       └── game-play.png 🖼️
-├── /css 🎨
-│   └── style.css 🖌️
-├── /js 💻
-│   └── script.js ⌨️
-├── index.html 📄
-└── README.md 📖
-```
 
 - **/assets**: Contém todas as imagens usadas no jogo. 🌄
-- **/images**: Onde estão armazenadas as imagens e GIFs.
+  - **/images**: Onde estão armazenadas as imagens e GIFs. 🌅
+  - **/screenshots**: Contém capturas de tela do jogo. 📸
 - **/css**: Arquivo responsável pelos estilos do jogo. 🎨
 - **/js**: Lógica do jogo e animações. 💻
 - **index.html**: A estrutura HTML do jogo. 📄
 - **README.md**: Este arquivo, que contém informações sobre o projeto. 📖
-
-
