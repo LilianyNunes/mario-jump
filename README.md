@@ -30,7 +30,10 @@ A estrutura do projeto é a seguinte:
 │   │   ├── clouds.png ☁️
 │   │   ├── mario.gif 🎮
 │   │   ├── pipe.png 🚧
-│   │   └── game-over.png 💀
+│   │   ├── game-over.png 💀
+│   └── /screenshots 📸
+│       ├── game-over-screen.png 🖼️
+│       └── game-play.png 🖼️
 ├── /css 🎨
 │   └── style.css 🖌️
 ├── /js 💻
